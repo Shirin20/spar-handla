@@ -1,0 +1,15 @@
+{
+    "services": [
+      {
+        "name": "product",
+        "endpoint": "localhost/spar-handla/api/v1/product/",
+        "repo": ""
+      },
+      {
+        "name": "code",
+        "endpoint": "localhost/spar-handla/api/v1/code/",
+        "repo": ""
+      }
+    ]
+  }
+  
