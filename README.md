@@ -74,8 +74,3 @@ Read about the vision and purpose of Spar Handla in the [ProjectVision.md](Proje
 ## Demo
 
 Watch a live demo of the Spar Handla app on [YouTube](https://www.youtube.com/watch?v=jF2Kbc2kAAw).
-
----
-
-Thank you for your interest in Spar Handla. Happy smart shopping!
-```
