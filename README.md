@@ -69,7 +69,7 @@ Read about the vision and purpose of Spar Handla in the [ProjectVision.md](Proje
 
 - **Shirin Meirkhan**
   - *Role*: Lead Developer
-  - *Contact*: [shirin.meirkhan@example.com](mailto:shirin.meirkhan@example.com)
+  - *Contact*: shirinmeirkhan@gmail.com
 
 ## Demo
 
