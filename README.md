@@ -1,3 +1,5 @@
+I developed this app under the first year as a webbprogrammerare student at Linnéuniversitet i Kalmar 
+
 # Spar Handla 
 
 Spar Handla is a smart shopping companion that makes price comparison and shopping list organization. Developed with the goal to save time and money while shopping in various grocery stores, Spar Handla was planned to be an ultimate tool for managing shopping needs efficiently.
