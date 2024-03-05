@@ -1,4 +1,4 @@
-I developed this app under the first year as a webbprogrammerare student at Linnéuniversitet i Kalmar 
+I developed this app during my first year as a web programming student at Linnaeus University in Kalmar.
 
 # Spar Handla 
 
